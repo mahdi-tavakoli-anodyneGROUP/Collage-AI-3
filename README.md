@@ -5,7 +5,7 @@ A model trained by YOLO v8 using Roboflow.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
